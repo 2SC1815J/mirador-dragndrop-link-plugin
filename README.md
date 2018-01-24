@@ -6,7 +6,16 @@ A Mirador plugin that adds the [IIIF drag and drop link](http://zimeon.github.io
 
 ## Demo
 
-[mirador-loader](http://cdn.rawgit.com/2sc1815j/mirador-loader/98e7f00d/?manifest=http://lab.ndl.go.jp/dhii/iiif/2537568/manifest.json&canvas=http://lab.ndl.go.jp/dhii/iiif/2537568/p16)
+- Mirador with Drag and Drop Link Plugin
+    - [mirador-loader](http://2sc1815j.net/mirador-loader/?manifest=http://lab.ndl.go.jp/dhii/iiif/2537568/manifest.json&canvas=http://lab.ndl.go.jp/dhii/iiif/2537568/p16)
+
+Implementation examples that support for a drop of “IIIF drag and drop” link (manifest with canvas):
+- Mirador
+    - http://2sc1815j.net/mirador-loader/
+- Universal Viewer
+    - http://2sc1815j.net/uv-loader/
+- IIIF Curation Viewer
+    - http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/
 
 ## Usage
 
